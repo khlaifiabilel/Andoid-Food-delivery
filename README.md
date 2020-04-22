@@ -88,3 +88,12 @@ Once the installation is complete, you will see the following output:
 android-studio 3.3.1.0 from Snapcrafters installed
 ```
 That’s it. Android Studio has been installed on your Ubuntu desktop.
+
+***The Yummy ! App***
+
+![Image description](https://raw.githubusercontent.com/KalifiaBillal/Yummy/master/Images/Images02.png)
+
+![Image description](https://raw.githubusercontent.com/KalifiaBillal/Yummy/master/Images/Images01.png)
+
+![Image description](https://raw.githubusercontent.com/KalifiaBillal/Yummy/master/Images/Images06.png)
+
